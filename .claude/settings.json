@@ -16,6 +16,7 @@
       "Bash(kill:*)",
       "Bash(npx shadcn@latest add:*)",
       "Bash(ls:*)",
+      "Bash(ls *)",
       "Bash(cat:*)"
     ]
   }
